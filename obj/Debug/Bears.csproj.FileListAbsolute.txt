@@ -1,0 +1,15 @@
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\Bears.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\Bears.pdb
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\0Harmony.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\assembly_utils.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\assembly_valheim.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\BepInEx.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Vince Curran\source\repos\Bears\bin\Debug\UnityEngine.dll
+C:\Users\Vince Curran\Desktop\VSOut\Bears.dll
+C:\Users\Vince Curran\Desktop\VSOut\Bears.pdb
+C:\Users\Vince Curran\source\repos\Bears\obj\Debug\Bears.csproj.CoreCompileInputs.cache
+C:\Users\Vince Curran\source\repos\Bears\obj\Debug\Bears.csproj.CopyComplete
+C:\Users\Vince Curran\source\repos\Bears\obj\Debug\Bears.dll
+C:\Users\Vince Curran\source\repos\Bears\obj\Debug\Bears.pdb
